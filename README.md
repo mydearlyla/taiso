@@ -55,7 +55,7 @@
   [　]( )   
 ## 👨🏻‍🤝‍👨🏻 팀원 소개
 
-![image](https://user-images.githubusercontent.com/111268784/228138350-586b1aed-7b2e-4b8f-a166-fa213f748a29.png)
+![image](https://user-images.githubusercontent.com/111268784/228158474-7b3c71dc-8962-4063-baaa-6918b2d6a3a9.png)
 ![image](https://user-images.githubusercontent.com/111268784/228138425-5253a394-f759-4992-9df8-9ca315f989f4.png)
 ![image](https://user-images.githubusercontent.com/111268784/228138467-88fd0640-f518-4646-96d3-5a4cfa3bb244.png)
 
